@@ -1,0 +1,18 @@
+body {
+    background-color: #007AFF;
+}
+
+.container {
+    min-height: 100vh;
+    background-color: #007AFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.question-footer {
+    border-top: 1px solid rgba(0,0,0,0.4);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 12px;
+}
